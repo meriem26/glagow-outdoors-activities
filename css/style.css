@@ -34,7 +34,7 @@ header .container {
   z-index: 2;
 }
 /* responsive design  */
-@media (pointer: coarse) and (hover: none) {
+@media screen and (max-width:640px) {
   header {
     background: url("../media/video/mobile/mobile-home-page.jpg") black
       no-repeat center center scroll;
