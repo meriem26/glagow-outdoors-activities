@@ -1,3 +1,4 @@
+/* CSS Background Properties */
 header {
   position: relative;
   background-color: black;
@@ -6,6 +7,7 @@ header {
   width: 100%;
   overflow: hidden;
 }
+/* CSS Border Properties */
 header video {
   position: absolute;
   top: 50%;
@@ -31,6 +33,7 @@ header .container {
   position: relative;
   z-index: 2;
 }
+/* responsive design  */
 @media (pointer: coarse) and (hover: none) {
   header {
     background: url("../media/video/mobile/mobile-home-page.jpg") black
@@ -39,7 +42,7 @@ header .container {
   header video {
     display: none;
   }
-  /*check how to resize picture* */
+ /* CSS Text Properties  */
   #ski-services{
 	clip-path: ellipse(50% 50% at 50% 50%);
 	width: 50px;
@@ -73,4 +76,9 @@ section {
 }
 footer{
   position: fixed;
+} 
+/* css styling */
+.pageElement{
+display: flex;
+justify-content: center;
 }
