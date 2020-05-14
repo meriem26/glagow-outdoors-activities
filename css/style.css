@@ -43,7 +43,7 @@ header .container {
     display: none;
   }
   /* CSS Text Properties  */
-  #ski-services {
+  #upcomings {
     clip-path: ellipse(50% 50% at 50% 50%);
     width: 50px;
     height: 290px;
@@ -69,7 +69,7 @@ section {
   width: 100%;
   padding: 10% 10%;
 }
-#ski-services {
+#upcomings {
   clip-path: ellipse(50% 50% at 50% 50%);
   width: 560px;
   height: 260px;
