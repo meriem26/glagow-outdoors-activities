@@ -54,7 +54,7 @@ nav {
   top: 0;
   z-index: 100;
   background-color: rgba(93, 93, 93, 0.73);
-  border-bottom: 2px solid #57b6e6;
+  border-bottom: 2px solid #28a745;
 }
 
 .hp {
@@ -71,7 +71,7 @@ section {
 }
 #ski-services {
   clip-path: ellipse(50% 50% at 50% 50%);
-  width: 460px;
+  width: 560px;
   height: 260px;
 }
 footer {
@@ -83,7 +83,7 @@ footer {
   display: flex;
   justify-content: center;
   border-style: inset;
-  border-color: #57b6e6;
+  border-color: #28a745;
 }
 .titles{
   font-size: 1.875em;
