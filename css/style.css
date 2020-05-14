@@ -36,7 +36,7 @@ header .container {
 /* responsive design  */
 @media screen and (max-width: 640px) {
   header {
-    background: url("../media/video/mobile/mobile-home-page.jpg") black
+    background: url("../img/Asset\ 1.svg") black
       no-repeat center center scroll;
   }
   header video {
